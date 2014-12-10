@@ -60,7 +60,7 @@
             
                   qname =  axutil_qname_create (env,
                         "additionResponse",
-                        "http://localhost:9090/axiswstest/AdditionService",
+                        "http://webservices.mkrupa.com",
                         NULL);
                 _additionResponse->qname = qname;
             
